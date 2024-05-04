@@ -1,1 +1,1 @@
-# Created insights for Employee attrition.
+# Created insights for employee attrition.
